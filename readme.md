@@ -12,7 +12,7 @@ sklearn
 
 ## Data.
 
-Data for PAH and thienoacenes that are used in the project can be found in sample_DATA directory. 
+Data for PAH and thienoacenes that are used in the project can be found in sample_DATA directory. They are datasets from ref 1 and 2 in csv format.
 
 ## Guide
 ### 1. Overall guide
