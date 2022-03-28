@@ -1,0 +1,249 @@
+No,DPO equation,BG,IP,EA,smiles
+P4.1,1+2*b,4.837,6.134,1.297,c12c3ccccc3c4ccccc4c1cccc2
+P4.2,1+2*b,4.168,5.812,1.644,c1(c(ccc2c1cccc2)cc3)c4c3cccc4
+P4.3,1+b+d,4.207,5.799,1.592,c1(ccccc1cc2)c3c2c4ccccc4cc3
+P4.4,2-a+b,3.72,5.599,1.879,c1(ccccc1cc2cc3)cc2c4c3cccc4
+P4.5,3-3*a,2.747,5.131,2.384,c12cc3cc4ccccc4cc3cc1cccc2
+P5.1,1+2*b+d,4.2010000000000005,5.813,1.612,c1(ccccc1cc2)c3c2c4c5ccccc5ccc4cc3
+P5.2,1+2*b+c,4.122,5.768,1.646,c1(c(ccc2c1c3ccccc3cc2)cc4)c5c4cccc5
+P5.3,1+2*b+d,4.19,5.779,1.589,c1(ccccc1cc2)c3c2c4ccc5ccccc5c4cc3
+P5.4,1+2*b+d,4.042,5.723,1.681,c1(ccccc1c2ccccc32)c4c3c5ccccc5cc4
+P5.5,2-a+2*b,3.887,5.692,1.805,c1(c(ccc2c1cccc2)cc3cc4)cc3c5c4cccc5
+P5.6,2-a+2*b,3.853,5.695,1.842,c12cc3ccccc3cc1c4ccccc4c5c2cccc5
+P5.7,2-a+2*b,3.846,5.654,1.808,c1(ccc2ccccc2c1cc3cc4)cc3c5c4cccc5
+P5.8,2-a+b+d*b,3.749,5.593,1.844,c12cc3c4cc5ccccc5cc4ccc3cc1cccc2
+P5.9,2-a+b+c,3.411,5.448,2.037,c12c3cc4ccccc4cc3ccc1ccc5c2cccc5
+P5.10,2-a+b+d,3.469,5.478,2.009,c12ccc3c4cc5ccccc5cc4ccc3c1cccc2
+P5.11,3-3*a+b,2.92,5.226,2.307,c1(ccccc1cc2cc3cc4)cc2cc3c5c4cccc5
+P5.12,4-6*a,2.188,4.87,2.682,c12cc3cc4cc5ccccc5cc4cc3cc1cccc2
+P6.1,5-10*a,1.78,4.68,2.9,c12cc3cc4cc5cc6ccccc6cc5cc4cc3cc1cccc2
+P6.2,4-6*a+b,2.336,4.952,2.616,c1(ccccc1cc2cc3cc4cc5)cc2cc3cc4c6c5cccc6
+P6.3,3-3*a+b+d*b,2.998,5.274,2.276,c1(ccccc1cc2cc3cc4)cc2cc3c5c4cc6ccccc6c5
+P6.4,3-3*a+b+d,2.782,5.165,2.383,c1(ccccc1cc2cc3cc4)cc2cc3c5c4c6ccccc6cc5
+P6.5,2-a+b+d+d*(1-a),3.117,5.316,2.199,c1(ccccc1cc2cc3)cc2c4c3c5cc6ccccc6cc5cc4
+P6.6,3-3*a+2*b,3.091,5.321,2.23,c1(c(ccc2c1cccc2)cc3cc4cc5)cc3cc4c6c5cccc6
+P6.7,2-a+2*b+d,3.619,5.558,1.939,c1(c(ccc2c1cccc2)cc3cc4)cc3c5c4c6ccccc6cc5
+P6.8,2 - a + b + d + b*d,3.469,5.479,2.01,c1(ccc2c34)cc5ccccc5cc1c2ccc3ccc6c4cccc6
+P6.9,1+2*b+d+d*b,3.918,5.682,1.764,c1(c(ccc2c1cccc2)cc3)c4c3c5c6ccccc6ccc5cc4
+P6.10,3-3*a+b+c,2.755,5.139,2.384,c1(ccccc1cc2cc3cc4)cc2cc3c5c4ccc6ccccc56
+P6.11,3-3*a+2*b,3.084,5.315,2.231,c1(ccc2ccccc2c1cc3cc4cc5)cc3cc4c6c5cccc6
+P6.12,2-a+b+c+d*c,3.027,5.271,2.244,c1(ccccc1cc2c3c4c5)cc2ccc3ccc4cc6c5cccc6
+P6.13,3-3*a+2*b,3.016,5.294,2.278,c12cc3cc4ccccc4cc3cc1c5ccccc5c6c2cccc6
+P6.14,2-a+b+d*b+d*d,3.622,5.549,1.927,c1(ccccc1cc2cc3)cc2c4c3cc5c6ccccc6ccc5c4
+P6.15,2-a+2*b+d*b,3.67,5.593,1.923,c1(c(ccc2c1cc3ccccc3c2)cc4cc5)cc4c6c5cccc6
+P6.16,1+2*b+d+c,3.807,5.57,1.763,c1(ccccc1c2ccccc32)c4c3c5ccccc5c6ccccc46
+P6.17,2-a+2*b+d*b,3.849,5.739,1.89,c1(cc2ccccc2cc1c3ccccc43)c5c4cc6ccccc6c5
+P6.18,2-a+b+c+d,3.313,5.384,2.071,c12cc3ccccc3cc1ccc4c2c5ccccc5c6ccccc46
+P6.19,1+3*b+d,4.13,5.772,1.643,c(c1cc2)(c3ccccc3c4ccccc14)c5c2c6ccccc6cc5
+P6.20,2-a+3*b,3.983,5.756,1.773,c(c1cc2cc3)(c4ccccc4c5ccccc15)cc2c6c3cccc6
+P6.21,2-a+2*b+d,3.606,5.544,1.939,c12cc3ccc4ccccc4c3cc1ccc5c2ccc6ccccc56
+P6.22,2-a+b+c+d*b,3.482,5.493,2.01,c1(ccccc1cc2cc3)cc2c4c3ccc5c6ccccc6ccc45
+P6.23,2-a+2*b+c,3.559,5.53,1.971,c12cc3ccc4ccccc4c3cc1ccc5c2c6ccccc6cc5
+P6.24,1+2*b+2*d,3.894,5.637,1.743,c1(ccccc1c2ccc3ccccc3c42)c5c4c6ccccc6cc5
+P6.25,1+2*b+c+d,4.023,5.733,1.71,c1(ccccc1c2ccc3ccc4ccccc4c3c52)c6c5cccc6
+P6.26,2-a+2*b+d,3.587,5.531,1.944,c1(ccccc1cc2c3ccc4ccccc4c53)cc2c6c5cccc6
+P6.27,2-a+b+d+d*b,3.5210000000000004,5.518,1.997,c1(ccccc1cc2cc3)cc2c4c3c5ccc6ccccc6c5cc4
+P6.28,2-a+2*b+c,3.549,5.523,1.974,c1(c(ccc2c1c3ccccc3cc2)cc4cc5)cc4c6c5cccc6
+P6.29,1+2*b+d+d,3.901,5.683,1.782,c1(ccc2c3ccccc3ccc2c14)ccc5c4ccc6ccccc56
+P6.30,2-a+2*b+c,3.548,5.501,1.953,c1(ccccc1cc2c3c4ccccc4ccc53)cc2c6c5cccc6
+P6.31,1+2*b+c+d,3.972,5.707,1.735,c12c3ccc4c5ccccc5ccc4c3ccc1ccc6c2cccc6
+P6.32,1+3*b+d,3.881,5.678,1.797,c1(ccccc1c2c3ccccc3ccc2c4cc5)c4c6c5cccc6
+P6.33,1+2*b+d+c,3.809,5.62,1.811,c12ccc3c4c5ccccc5ccc4c6ccccc6c3c1cccc2
+P6.34,1+2*b+d+d,4.007,5.703,1.697,c12ccc3c4ccc5c6ccccc6ccc5c4ccc3c1cccc2
+F4.1,2 - a + b + -af,4.126,5.713,1.587,c1(cc2sccc2cc1cc3)c4c3cccc4
+F4.2,3 - 3*a + -af,3.086,5.239,2.152,s1ccc2c1cc1cc3ccccc3cc1c2
+F4.3,2 - a + -af + b0,3.913,5.692,1.779,s1c2cc3ccccc3cc2c2c1cccc2
+F4.4,1 + b + df,4.324,5.846,1.522,c1(ccc2sccc2c1cc3)c4c3cccc4
+F4.5,2 - a + bf,3.538,5.5,1.962,c1(ccccc1cc2cc3)cc2c4c3scc4
+F5.1,2 - a + b + -af + b0,4.02,5.769,1.749,s1c2ccccc2c2cc3c(ccc4c3cccc4)cc12
+F5.2,2 - a + 2*b + -af,4.217,5.8,1.584,c(c1c2)(c3ccccc3c4ccccc14)cc5c2scc5
+F5.3,2 - a + b + -af +b0,4.011,5.727,1.715,s1c2ccccc2c2cc3c(cc12)c1c(cccc1)cc3
+F5.4,2 - a + b + c + -af,3.716,5.545,1.829,c1(c(ccc2c1c3ccccc3cc2)c4)cc5c4ccs5
+F5.5,2 - a + b + d + -af,3.805,5.575,1.77,c1(ccccc1c2ccc3c4)ccc2c3cc5c4ccs5
+F5.6,3 - 3*a + b + -af,3.264,5.335,2.071,c1(sccc1cc2cc3cc4)cc2cc3c5c4cccc5
+F5.7,4 - 6*a + -af,2.45,4.963,2.512,s1ccc2c1cc1cc3cc4ccccc4cc3cc1c2
+F5.8,2 - a + b + cf,3.551,5.54,1.988,c1(ccccc1cc2cc3)cc2c4c3ccc5c4scc5
+F5.9,2 - a + b + bf,3.706,5.598,1.892,c1(ccccc1cc2c3ccccc43)cc2c5c4scc5
+F5.10,2 - a + b + bf,3.685,5.567,1.882,s1ccc2c1ccc1c2cc2ccc3c(cccc3)c2c1
+F5.11,3 - 3*a + bf,2.795,5.149,2.354,c1(cc2ccccc2cc1cc3cc4)cc3c5c4scc5
+F5.12,2 - a + b + b*df,3.681,5.574,1.893,c1(ccccc1cc2cc3)cc2c(c4)c3cc5c4scc5
+F5.13,2 - a + b + df,3.585,5.536,1.951,c1(ccccc1cc2cc3)cc2c(cc4)c3c5c4scc5
+F6.1,5 - 10*a + -af,1.984,4.757,2.773,s1ccc2c1cc1cc3cc4cc5ccccc5cc4cc3cc1c2
+F6.2,4 - 6*a + b + -af,2.607,5.047,2.439,c1(c(ccc2c1cccc2)cc3cc4c5)cc3cc4cc6c5ccs6
+F6.3,3 - 3*a + b + b*d + -af,3.337,5.382,2.045,c1(cc2sccc2cc1cc3cc4)cc3c5c4cc6ccccc6c5
+F6.4,3 - 3*a + b + d + -af,3.095,5.265,2.17,c1(cc2sccc2cc1cc3cc4)cc3c5c4c6ccccc6cc5
+F6.5,3 - 3*a + -af + 2*b0,3.079,5.363,2.284,s1c2cc3c(cc2c2c1cc1ccccc1c2)cc1ccccc1c3
+F6.6,3 - 3*a + b + -af + b0,3.275,5.403,2.127,s1c2cc3c(cc2c2c1cccc2)cc1c(ccc2c1cccc2)c3
+F6.7,2 - a + b + d + -af + b0,3.774,5.632,1.857,s1c2cc3c(cc2c2c1cccc2)c1c(cc3)c2c(cccc2)cc1
+F6.8,2 - a + b + d + b*d + -af,3.789,5.563,1.774,s1ccc2cc3c(ccc4c3ccc3c4c4ccccc4cc3)cc12
+F6.9,3 - 3*a + b + c + -af,3.048,5.236,2.187,c1(cc2sccc2cc1cc3cc4)cc3c5c4ccc6ccccc56
+F6.10,3 - 3*a + b + -af + b0,3.276,5.396,2.12,s1c2ccccc2c2cc3c(cc12)cc1c(ccc2ccccc12)c3
+F6.11,3 - 3*a + 2*b + -af,3.361,5.405,2.043,c(c1cc2c3)(c4ccccc4c5ccccc15)cc2cc6c3ccs6
+F6.12,2 - a + 2*b + d + -af,3.787,5.593,1.806,c1(cc2sccc2cc1c3ccccc43)c5c4c6ccccc6cc5
+F6.13,2 - a + b + c + d + -af,3.62,5.478,1.858,c1(cc2sccc2cc1cc3)c4c3c5ccccc5c6ccccc46
+F6.14,2 - a + 2*b + -af + b0,4.107,5.828,1.721,s1c2ccccc2c2cc3c4ccccc4c4ccccc4c3cc12
+F6.15,2 - a + b + c + b*d + -af,3.802,5.582,1.78,s1ccc2cc3c(cc12)c1c(cc3)ccc2c1ccc1c2cccc1
+F6.16,2 - a + b + c + -af + b0,3.704,5.604,1.9,s1c2ccccc2c2cc3c(cc12)c1c(ccc2c1cccc2)cc3
+F6.17,2 - a + b + d + b*d + -af,3.86,5.615,1.755,c1(cc2sccc2cc1cc3)c4c3c5ccc6ccccc6c5cc4
+F6.18,2 - a + 2*b + c + -af,3.847,5.593,1.746,c1(cc2sccc2cc1c3c4ccccc4ccc53)c6c5cccc6
+F6.19,3 - 3*a + b + bf,2.959,5.25,2.291,c1(c(ccc2c1cccc2)cc3cc4cc5)cc3cc4c6c5scc6
+F6.20,2 - a + 2*b + bf,3.804,5.667,1.863,c1(c(c2ccccc2c3c1cccc3)cc4cc5)cc4c6c5scc6
+F6.21,2 - a + 2*b + df,3.743,5.619,1.876,c1(c(ccc2c1ccc3sccc23)cc4cc5)cc4c6c5cccc6
+F6.22,2 - a + b + d + bf,3.451,5.482,2.031,s1ccc2c1c1cc3c4ccc5c(cccc5)c4ccc3cc1cc2
+F6.23,2 - a + b + d + b*df,3.417,5.456,2.039,s1ccc2c1ccc1c2c2c(cc1)c1c(cc2)cc2ccccc2c1
+F6.24,2 - a + b + df + df*(1-a),3.31,5.383,2.073,c1(ccccc1cc2cc3)cc2c(ccc4c5)c3c4cc6c5scc6
+F6.25,3 - 3*a + b + df,2.85,5.205,2.355,c1(ccccc1cc2cc3cc4)cc2cc3c(cc5)c4c6c5scc6
+F6.26,2 - a + b + d + cf,3.328,5.434,2.106,c1(ccccc1cc2cc3)cc2c4c3c5ccccc5c6c4scc6
+F6.27,2 - a + b + df + c,3.367,5.424,2.057,s1ccc2c1c1ccccc1c1c2ccc2cc3c(cccc3)cc12
+F6.28,2 - a + b + c + df*c,3.209,5.322,2.113,s1ccc2cc3c(cc12)c1c(ccc2cc4ccccc4cc12)cc3
+F6.29,2 - a + b + c + b*df,3.421,5.451,2.029,s1ccc2c3ccc4c(c3ccc12)c1cc2c(cccc2)cc1cc4
+F6.30,3 - 3*a + bf + b,2.948,5.257,2.308,c12cc3cc4ccccc4cc3cc1c5c(c6c2cccc6)scc5
+F6.31,3 - 3*a + b + cf,2.846,5.209,2.363,c12cc3cc4ccccc4cc3cc1ccc5c2c6sccc6cc5
+F6.32,3 - 3*a + b + b*df,2.934,5.24,2.306,c12cc3cc4ccccc4cc3cc1ccc5c2cc6sccc6c5
+T4.1,2 - a + bf + -af,3.959,5.597,1.638,c1(cc2sccc2cc1cc3)c4c3scc4
+T4.2,3 - 3*a + -af,3.45,5.322,1.872,c1(cc2sccc2cc1c3)cc4c3scc4
+T5.1,2 - a + 2*bf,3.554,5.493,1.938,c1(c(ccc2c1ccs2)cc3cc4)cc3c5c4scc5
+T5.2,2 - a + -af + b + b*df,4.035,5.636,1.601,c1(c(ccc2c1cc3c(c2)scc3)c4)cc5c4ccs5
+T5.3,2 - a + -af + b + cf,3.908,5.627,1.719,c1(c(ccc2c1c3c(cc2)scc3)c4)cc5c4ccs5
+T5.4,2 - a + -af + b + df,3.94,5.634,1.694,c1(c(ccc2c1ccc3c2scc3)c4)cc5c4ccs5
+T5.5,3 - 3*a + -af + bf,3.132,5.252,2.12,c1(cc2sccc2cc1cc3cc4)cc3c5c4scc5
+T5.6,4 - 6*a + -af,2.745,5.035,2.29,c1(cc2sccc2cc1cc3c4)cc3cc5c4scc5
+T5.7,2 - a + -af + b + bf,4.044,5.661,1.617,s1ccc2cc3c(cc12)c1c(scc1)c1c3cccc1
+T6.1,5 - 10*a + -af,2.216,4.817,2.601,c1(c2)cc3cc4cc(ccs5)c5cc4cc3cc1cc6c2scc6
+T6.2,4 - 6*a + -af + bf,2.508,4.987,2.479,s1ccc2cc3cc4c(cc3cc12)cc1c2c(scc2)ccc1c4
+T6.3,3 - 3*a + -af + b + b*df,3.279,5.334,2.055,c1(cc2cc3sccc3cc2cc1cc4)c5c4cc6sccc6c5
+T6.4,3 - 3*a + -af + b + df,3.171,5.305,2.134,c1(cc2cc3sccc3cc2cc1cc4)c5c4c6sccc6cc5
+T6.5,2 - a + -af + b + df + df*(1-a),3.55,5.43,1.88,s1ccc2cc3c(cc12)c1c(cc3)c2cc3c(ccs3)cc2cc1
+T6.6,2 - a + -af + 2*b + b*df,4.11,5.74,1.63,s1ccc2cc3c(cc12)c1c(cccc1)c1cc2c(ccs2)cc31
+T6.7,3 - 3*a + -af + bf + b,3.281,5.35,2.069,c1(cc2cc3sccc3cc2cc1c4c5scc4)c6c5cccc6
+T6.8,3 - 3*a + -af + b + cf,3.161,5.293,2.132,c1(cc2cc3sccc3cc2cc1cc4)c5c4ccc6c5scc6
+T6.9,2 - a + -af + b + c + c*df,3.466,5.397,1.931,s1ccc2cc3c(ccc4c3c3cc5c(ccs5)cc3cc4)cc12
+T6.10,2 - a + b + df + cf,3.504,5.493,1.989,c12cc3ccccc3cc1ccc(c4c5scc4)c2c6c5scc6
+T6.11,2 - a + -af + b + c + b*df,3.678,5.53,1.853,s1ccc2c1cc1c(ccc3c1c1c(cc3)c3c(ccs3)cc1)c2
+T6.12,2 - a + -af + b + df + c,3.677,5.517,1.84,c1(c(ccc2c1c3ccccc3c4sccc24)c5)cc6c5ccs6
+T6.13,2 - a + -af + bf + b + d,3.663,5.518,1.854,s1ccc2c1cc1c3c(scc3)c3c(ccc4c3cccc4)c1c2
+T6.14,2 - a + -af + b + b + df,3.961,5.667,1.706,s1ccc2cc3c4ccccc4c4c5c(ccs5)ccc4c3cc12
+T6.15,2 - a + -af + b + d + b*df,3.813,5.577,1.764,c1(cc2sccc2cc1cc3)c4c3c5ccc6sccc6c5cc4
+T6.16,2 - a + -af + bf + b + c,3.643,5.503,1.86,s1ccc2cc3c4ccsc4c4ccc5c(cccc5)c4c3cc12
+T6.17,2 - a + -af + b + b + cf,3.966,5.662,1.696,s1ccc2cc3c4ccccc4c4ccc5c(ccs5)c4c3cc12
+T6.18,2 - a + -af + b + cf + d,3.704,5.526,1.822,c1(cc2sccc2cc1cc3)c4c3c5ccccc5c6sccc46
+T6.19,2 - a + -af + b + d + b*df,3.719,5.546,1.827,c1(cc2sccc2cc1cc3)c(cc4)c3c(c4cc5)c6c5scc6
+T6.20,3 - 3*a + 2*bf,2.844,5.178,2.334,c(cc1c2c3scc2)(c(cc1cc3)cc4cc5)cc4c6c5scc6
+T6.21,2 - a + bf + b + cf,3.563,5.517,1.955,s1ccc2c1ccc1cc3c(cc21)c1c(ccc2c1ccs2)cc3
+T6.22,2 - a + bf + b + df,3.596,5.526,1.93,c1(c(ccc2c1ccc3sccc23)cc4cc5)cc4c6c5scc6
+P7.1,5-10*a+b,1.902,4.747,2.845,c1(ccccc1cc2cc3cc4cc5cc6)cc2cc3cc4cc5c7c6cccc7
+P7.2,4-6*a+b+d*b,2.399,4.992,2.593,c1(ccccc1cc2cc3cc4cc5)cc2cc3cc4c6c5cc7ccccc7c6
+P7.3,4-6*a+b+d,2.247,4.916,2.669,c1(ccccc1cc2cc3cc4cc5)cc2cc3cc4c6c5c7ccccc7cc6
+P7.4,3-3*a+b+d+d*(1-a),2.635,5.098,2.463,c1(ccccc1cc2cc3cc4)cc2cc3c5c4c6cc7ccccc7cc6cc5
+P7.5,4-6*a+2*b,2.485,5.034,2.549,c1(c(ccc2c1cccc2)cc3cc4cc5cc6)cc3cc4cc5c7c6cccc7
+P7.6,3-3*a+b+d*b+d*d,2.924,5.242,2.318,c1(ccccc1cc2cc3cc4)cc2cc3c5c4cc6c7ccccc7ccc6c5
+P7.7,3-3*a+b+d+d*b,2.792,5.164,2.372,c1(ccccc1cc2cc3cc4)cc2cc3c5c4c6c7ccccc7ccc6cc5
+P7.8,3-3*a+2*b+d*b,3.169,5.368,2.199,c1(ccccc1ccc2cc3cc4cc5)c2cc3cc4c6c5cc7ccccc7c6
+P7.9,3-3*a+b+d+c,2.689,5.1,2.411,c1(ccccc1cc2cc3cc4)cc2cc3c5c4c6ccccc6c7ccccc57
+P7.10,2-a+b+d*b+d*d+(1-a)*d*d,3.346,5.433,2.087,c1(ccccc1cc2cc3)cc2c4c3cc5c6ccccc6ccc5c4
+P7.11,2-a+b+d+d*b+d*d*b,3.466,5.528,2.062,c1(ccccc1cc2cc3)cc2c4c3c5ccc6cc7ccccc7cc6c5cc4
+P7.12,3-3*a+2*b+d,2.9410000000000003,5.251,2.31,c1(c(ccc2c1cccc2)cc3cc4cc5)cc3cc4c6c5c7ccccc7cc6
+P7.13,2-a+2*b+d+d*(1-a),3.212,5.37,2.158,c1(ccccc1cc2c3ccc4cc5cc6)cc2ccc3c4cc5c7c6cccc7
+P7.14,2-a+2*b+d+d*(1-a),3.131,5.306,2.175,c12cc3ccc4c5cc6ccccc6cc5c7ccccc7c4c3cc1cccc2
+P7.15,2-a+2*b+2*d*b,3.716,5.709,1.993,c1(ccccc1cc2c3cc4ccccc4cc53)cc2c6c5cc7ccccc7c6
+P7.16,2-a+2*b+d*b+d*d,3.667,5.555,1.888,c12ccccc1c3cc4ccc5cc6c7ccccc7ccc6cc5c4cc3cc2
+P7.17,1+2*b+d+d+b*d,4.002,5.692,1.69,c12ccc3c4ccc5c6ccc7ccccc7c6ccc5c4ccc3c1cccc2
+P7.18,1+3*b+2*d,3.885,5.683,1.798,c1(ccccc1ccc2c34)c2ccc3c5ccc6ccccc6c5c7c4cccc7
+P7.19,1+3*b+c+d,4.081,5.801,1.72,c1(ccccc1c2ccc3c4ccccc4c5c6cccc5)c7c(c2c63)cccc7
+P8.1,6-15*a+b,1.5730000000000002,4.592,3.019,c1(ccccc1cc2cc3cc4cc5cc6cc7)cc2cc3cc4cc5cc6c8c7cccc8
+P8.2,5-10*a+b+d*b,1.954,4.78,2.826,c1(ccccc1cc2cc3cc4cc5cc6)cc2cc3cc4cc5c7c6cc8ccccc8c7
+P8.3,5-10*a+b+d,1.84,4.725,2.885,c1(ccccc1cc2cc3cc4cc5cc6)cc2cc3cc4cc5c7c6c8ccccc8cc7
+P8.4,4-6*a+b+d+d*(1-a),2.173,4.885,2.712,c1(ccccc1cc2cc3cc4cc5)cc2cc3cc4c6c5c7cc8ccccc8cc7cc6
+P8.5,4-6*a+b+c+d*c,2.14,4.856,2.716,c1(ccccc1cc2cc3cc4cc5)cc2cc3cc4c6c5ccc7cc8ccccc8cc67
+P8.6,3-3*a+b+c+d*c+c*d*d,2.331,4.945,2.614,c1(ccccc1cc2cc3cc4)cc2cc3c5c4ccc6cc7cc8ccccc8cc7cc56
+P8.7,3-3*a+b+d*b+d*d+(1-a)*d*d,2.8310000000000004,5.202,2.371,c1(ccccc1cc2cc3cc4)cc2cc3c5c4cc6c7cc8ccccc8cc7ccc6c5
+P8.8,2-a+2*b+d+d+d*(1-a),3.117,5.327,2.21,c1(ccccc1cc2cc3)cc2c4c3c5cc6ccc7c8ccccc8ccc7c6cc5cc4
+P8.9,5-10*a+2*b,1.955,4.783,2.828,c1(ccccc1cc2cc3cc4cc5c6ccccc76)cc2cc3cc4cc5c8c7cccc8
+P8.10,3-3*a+4*b,3.2910000000000004,5.46,2.171,c(c1cc2cc3c4ccccc54)(c6ccccc6c7ccccc17)cc2cc3c8c5cccc8
+P8.11,3-3*a+3*b+d,3.027,5.31,2.283,c12cc3cc4ccc5c6ccccc6ccc5c4cc3cc1c7ccccc7c8c2cccc8
+P8.12,1+2*b+d+d+d*b+d*d,3.908,5.66,1.752,c12ccccc1c3ccc4c5ccc6c7ccc8ccccc8c7ccc6c5ccc4c3cc2
+P8.13,3-3*a+2*b+d+d*b,2.939,5.238,2.299,c12cc3cc4ccccc4cc3cc1c5ccccc5c6c2ccc7ccc8ccccc8c67
+P8.14,4-6*a+b+d*b+b*d*d,2.428,5.013,2.585,c1(cc2ccccc2cc1cc3cc4cc5)cc3cc4c6c5cc7cc8ccccc8cc7c6
+P8.15,5-10*a+2*b,2.029,4.817,2.788,c1(ccc2ccccc2c1cc3cc4cc5cc6cc7)cc3cc4cc5cc6c8c7cccc8
+F7.1,5 - 10*a + b + -af,2.116,4.828,2.712,s1ccc2cc3cc4cc5c(cc4cc3cc12)cc1c(ccc2c1cccc2)c5
+F7.2,4 - 6*a + b + b*d + -af,2.678,5.079,2.401,s1ccc2c1cc1cc3cc4c(ccc5c4cc4ccccc4c5)cc3cc1c2
+F7.3,4 - 6*a + b + d + -af,2.502,5.006,2.504,s1ccc2cc3c(cc12)cc1cc2c(ccc4c2ccc2c4cccc2)cc1c3
+F7.4,3 - 3*a + b + d + d*(1-a) + -af,2.877,5.17,2.292,s1ccc2c1cc1cc3c(ccc4c3ccc3c4cc4ccccc4c3)cc1c2
+F7.5,4 - 6*a + b + -af + b0,2.643,5.106,2.463,s1c2cc3cc4cc5c(cc4cc3cc2c2c1cccc2)c1ccccc1cc5
+F7.6,3 - 3*a + b + b*d + 1*d*d + -af,3.25,5.335,2.085,s1ccc2c1cc1cc3c(ccc4c3cc3ccc5c(cccc5)c3c4)cc1c2
+F7.7,3 - 3*a + b + d + b*d + -af,3.099,5.254,2.155,s1ccc2cc3c(cc12)cc1c(ccc2c1ccc1c2c2c(cccc2)cc1)c3
+F7.8,3 - 3*a + b + b*d + -af + b0,3.348,5.447,2.1,s1c2cc3cc4c(cc3cc2c2c1cccc2)c1cc2ccccc2cc1cc4
+F7.9,3 - 3*a + b + c + d + -af,2.977,5.182,2.205,s1ccc2cc3c(cc12)cc1c(ccc2c1c1ccccc1c1c2cccc1)c3
+F7.10,3 - 3*a + b + -af + 2*b0,3.231,5.446,2.215,s1c2cc3cc4c(cc3cc2c2c1cc1ccccc1c2)c1c(cccc1)cc4
+F7.11,3 - 3*a + b + d + b*d + -af,3.132,5.284,2.152,s1ccc2cc3c(cc12)cc1c(ccc2c1ccc1c2ccc2c1cccc2)c3
+F7.12,3 - 3*a + b + d + -af + b0,3.114,5.326,2.212,s1c2cc3cc4c(cc3cc2c2c1cccc2)c1c(cc4)c2c(cccc2)cc1
+F7.13,3 - 3*a + 2*b + d + -af,3.247,5.328,2.081,s1ccc2cc3cc4c5ccc6c(cccc6)c5c5ccccc5c4cc3cc12
+F7.14,3 - 3*a + b + b*d + d*d + d*d*(1-a) + -af,3.096,5.28,2.185,s1ccc2c1cc1cc3c(ccc4c3cc3ccc5c(cc6c(c5)cccc6)c3c4)cc1c2
+F7.15,2 - a + b + d + 2*b*d + -af,3.847,5.61,1.762,s1ccc2cc3c(cc12)c1c(cc3)c2c3ccccc3c3ccccc3c2cc1
+F7.16,3 - 3*a + 2*b + cf,3.008,5.297,2.289,s1ccc2c1c1c(cc2)ccc2cc3cc4ccc5ccccc5c4cc3cc12
+F7.17,3 - 3*a + b + c + bf,2.772,5.171,2.399,s1ccc2ccc3cc4cc5ccc6c(c5cc4cc3c12)c1c(cccc1)cc6
+F7.18,2 - a + b + df + c + b*d,3.428,5.468,2.039,s1ccc2c1c1c(ccc3c1cccc3)c1c2ccc2cc3ccccc3cc12
+F7.19,2 - a + b + df*df + c + b*d,3.41,5.474,2.064,s1ccc2c1ccc1c2c2c(cc1)c1c(ccc3cc4ccccc4cc13)cc2
+F7.20,2 - a + 2*b + c + cf,3.442,5.476,2.034,s1ccc2c1c1c(cc2)ccc2cc3c(ccc4c3c3c(cccc3)cc4)cc12
+F7.21,2 - a + b + c + b*d + c*df,3.424,5.465,2.041,s1ccc2c1c1c(cc2)c2c(cc1)c1c(ccc3cc4ccccc4cc13)cc2
+F7.22,3 - 3*a + 2*b + bf,3.108,5.34,2.232,s1ccc2c1c1c(cccc1)c1c2cc2cc3c(ccc4c3cccc4)cc2c1
+F7.23,3 - 3*a + 2*b + bf,3.024,5.324,2.3,s1ccc2c1c1cc3cc4c5ccccc5c5ccccc5c4cc3cc1cc2
+F7.24,2 - a + 3*b + bf,3.859,5.717,1.858,s1ccc2c1c1cc3c4ccccc4c4ccccc4c3cc1c1c2cccc1
+F8.1,6 - 15*a + b + -af,1.743,4.66,2.916,s1ccc2cc3cc4cc5cc6c(cc7c8c(ccc7c6)cccc8)cc5cc4cc3cc12
+F8.2,5 - 10*a + b + b*d + -af,2.173,4.862,2.689,s1ccc2cc3c(cc12)cc1cc2cc4c5c(ccc4cc2cc1c3)cc1ccccc1c5
+F8.3,5 - 10*a + b + d + -af,2.044,4.802,2.758,s1ccc2cc3c(cc12)cc1cc2cc4c(ccc5c4ccc4c5cccc4)cc2cc1c3
+F8.4,4 - 6 *a + b + d + d*(1-a) + -af,2.402,4.967,2.565,s1ccc2cc3c(cc12)cc1cc2c(ccc4c2ccc2c4cc4ccccc4c2)cc1c3
+F8.5,4 - 6*a + b + c + c*d + -af,2.355,4.935,2.58,s1ccc2cc3c(cc12)cc1cc2c4c(ccc2cc1c3)ccc1cc2ccccc2cc41
+F8.6,3 - 3*a + b + c + b*d + c*d + -af,3.058,5.245,2.187,s1ccc2c1cc1cc3c(ccc4c3c3c(cc4)c4c(cc3)c3c(cccc3)cc4)cc1c2
+F8.7,3 - 3*a + b + b*d + d*d + (1-a)*d*d + -af,3.096,5.28,2.184,s1ccc2cc3c(cc12)cc1c(ccc2c1cc1ccc4c(cc5ccccc5c4)c1c2)c3
+F8.8,3 - 3*a + b + d + d*(1-a) + d*b + -af,2.944,5.205,2.261,s1ccc2cc3cc4c(cc3cc12)c1c(cc4)c2c(cc1)cc1c3c(ccc1c2)cccc3
+F8.9,5 - 10*a + 2*b + -af,2.176,4.857,2.681,s1ccc2cc3c(cc12)cc1cc2cc4c(cc2cc1c3)c1ccccc1c1c4cccc1
+F8.10,3 - 3*a + 2*b + -af +2*b0,3.314,5.502,2.188,s1c2cc3c(cccc3)cc2c2cc3c(cc12)cc1c(c3)c2ccccc2c2c1cccc2
+F8.11,4 - 6*a + 2*b + -af +b0,2.722,5.159,2.437,s1c2ccccc2c2cc3cc4cc5c(cc4cc3cc12)c1c(c2ccccc52)cccc1
+F8.12,2 - a + b + d + b*d + d*d + b*d*d + -af,3.762,5.577,1.815,s1ccc2cc3c(cc12)c1c(cc3)c2c(cc1)c1ccc3c4ccccc4ccc3c1cc2
+F8.13,3 - 3*a + 2*b + d + b*d + -af,3.231,5.322,2.091,s1ccc2cc3cc4c5ccccc5c5c(c4cc3cc12)ccc1ccc2ccccc2c51
+F8.14,4 - 6*a + b + b*d + b*d*d + -af,2.699,5.101,2.402,s1ccc2c1cc1cc3cc4c(ccc5c4cc4cc6c(cc4c5)cccc6)cc3cc1c2
+F8.15,5 - 10*a + b + -af + b0,2.155,4.876,2.721,s1c2c(c3cc4cc5cc6c(cc5cc4cc13)cc1c(ccc3ccccc13)c6)cccc2
+F8.16,3 - 3*a + b + c + b*df + b*df*df,2.807,5.174,2.367,s1ccc2cc3c(ccc4c3ccc3c4c4c(cc3)cc3c(c4)cc4ccccc4c3)cc12
+F8.17,3 - 3*a + b + b*d + c*df + c*df*df,2.89,5.218,2.328,s1ccc2c1cc1c(ccc3cc4c(c5c(cc4)cc4c(c5)cc5ccccc5c4)cc13)c2
+F8.18,3 - 3*a + b + c + b*d + bf,2.82,5.196,2.375,s1ccc2c1c1c(cc2)cc2cc3c4c(ccc3cc2c1)ccc1c2ccccc2ccc41
+F8.19,3 - 3*a + 3*b + bf,3.204,5.408,2.204,s1ccc2c1c1c(cccc1)c1c2cc2cc3c(cc2c1)c1c(cccc1)c1c3cccc1
+F8.20,5 - 10*a + b + bf,1.954,4.783,2.829,s1ccc2c1ccc1cc3cc4cc5cc6ccc7ccccc7c6cc5cc4cc3cc21
+F8.21,2 - a + b + d + b*d + d*d + b*df*df,3.447,5.494,2.047,s1ccc2c1c1c(cc2)c2c(cc1)c1c(c3c(cc1)c1cc4ccccc4cc1cc3)cc2
+F8.22,2 - a + b + d + b*d + df*df + df*df*(1-a),3.385,5.432,2.047,s1ccc2cc3c(ccc4c3ccc3c4ccc4c3ccc3c4cc4ccccc4c3)cc12
+F8.23,2 - a + b + d + d*(1-a) + b*d + df*df,3.171,5.348,2.177,s1ccc2c1ccc1c2ccc2cc3c(ccc4c3ccc3c4cc4ccccc4c3)cc12
+F8.24,3 - 3*a + b + df + df*(1-a) + df*(1-2*a),2.539,5.045,2.506,s1ccc2cc3cc4c(ccc5c4ccc4c5cc5cc6ccccc6cc5c4)cc3cc12
+T7.1,5 - 10*a + -af + bf ,2.04,4.773,2.733,s1ccc2cc3cc4cc5c(cc4cc3cc12)cc1c2c(scc2)ccc1c5
+T7.2,2 - a + 2*b + 2*cf,3.533,5.527,1.994,s1ccc2c1ccc1c2c2c(cc3ccccc3c2)c2c1ccc1c2ccs1
+T7.3,4 - 6*a + -af + b + df ,2.555,5.026,2.472,s1ccc2cc3cc4c(cc3cc12)cc1c(ccc2c1ccc1c2scc1)c4
+T7.4, 3 - 3*a + -af + b + df + df*(1-a),2.994,5.199,2.205,s1ccc2cc3c(cc12)cc1c(ccc2c1ccc1c2cc2sccc2c1)c3
+T7.5,4 - 6*a + 2*bf,2.3,4.922,2.622,s1ccc2c1ccc1cc3cc4cc5c(cc4cc3cc21)c1c(scc1)cc5
+T7.6,3 - 3*a + -af + b + b*d + df*df,3.309,5.354,2.044,s1ccc2c1cc1cc3c(ccc4c3cc3ccc5c(ccs5)c3c4)cc1c2
+T7.7,3 - 3*a + -af + b + d + b*df,3.066,5.248,2.182,s1ccc2c1cc1cc3c(ccc4c3ccc3c4c4c(scc4)cc3)cc1c2
+T7.8,4 - 6*a + -af + b + cf,2.554,5.018,2.465,s1ccc2cc3cc4c(cc3cc12)cc1c(ccc2c1c1c(scc1)cc2)c4
+T7.9,6 - 15*a + -af,1.815,4.649,2.834,s1ccc2cc3cc4cc5cc6cc7c(ccs7)cc6cc5cc4cc3cc12
+T7.10,3 - 3*a + -af + b + b*df + b*df*df,3.269,5.357,2.088,s1ccc2cc3cc4c(cc3cc12)c1cc2cc3c(ccs3)cc2cc1cc4
+T7.11,3 - 3*a + -af + b + d + b*df,3.089,5.269,2.18,s1ccc2c1cc1cc3c(ccc4c3ccc3c4ccc4c3scc4)cc1c2
+T7.12,3 - 3*a + bf + b + df,2.898,5.21,2.311,s1ccc2c1ccc1cc3cc4c(cc3cc21)c1c(cc4)c2c(scc2)cc1
+T7.13,2 - a + bf + b + df + df*(1-a),3.331,5.378,2.048,s1ccc2c1cc1ccc3c(ccc4c3cc3c5c(scc5)ccc3c4)c1c2
+T7.14,3 - 3*a + -af + 2*b + df,3.325,5.359,2.034,s1ccc2cc3cc4c(cc3cc12)c1c(c2c(scc2)cc1)c1c4cccc1
+T7.15,2 - a + 2*b + 2*b*df,3.78,5.681,1.901,s1ccc2cc3c(cc12)c1c(cc2ccccc2c1)c1c3cc2ccsc2c1
+T7.16,2 - a + bf + b + b*d + df*df,3.575,5.522,1.947,s1ccc2c1ccc1cc3c(ccc4cc5c(ccc6c5ccs6)cc34)cc21
+T7.17,2 - a + 2*bf + b + d,3.408,5.447,2.039,s1ccc2c1ccc1cc3c(cc21)c1c(scc1)c1c3ccc2ccccc12
+T7.18,2 - a + -af + b + d + b*d + b*df,3.8,5.584,1.784,s1ccc2c1cc1c(ccc3c1ccc1c3c3c(scc3)c3c1cccc3)c2
+T8.1,6 - 15*a + -af + bf,1.683,4.616,2.933,s1ccc2c1cc1cc3cc4cc5cc6c7c(scc7)ccc6cc5cc4cc3cc1c2
+T8.2,5 - 10*a + -af + b + b*df,2.133,4.82,2.688,s1ccc2c1cc1cc3cc4cc5c(ccc6cc7c(scc7)cc56)cc4cc3cc1c2
+T8.3,5 - 10*a + -af + b + df,2.082,4.806,2.723,s1ccc2c3ccc4cc5cc6cc7cc8c(scc8)cc7cc6cc5cc4c3ccc12
+T8.4,4 - 6*a + -af + b + df + df*(1-a),2.465,4.973,2.508,s1ccc2cc3c4ccc5cc6cc7cc8c(scc8)cc7cc6cc5c4ccc3cc12
+T8.5,4 - 6*a + -af + b + c + c*df,2.43,4.954,2.523,s1ccc2cc3c4c(ccc5cc6cc7cc8c(scc8)cc7cc6cc45)ccc3cc12
+T8.6,3 - 3*a + -af + b + b*d + df*df + (1-a)*df*df,3.195,5.302,2.108,s1ccc2cc3c4cc5ccc6cc7cc8c(scc8)cc7cc6c5cc4ccc3cc12
+T8.7,3 - 3*a + -af + b + d + d*(1-a) + df*b,2.902,5.18,2.278,s1ccc2c1ccc1cc3c4ccc5cc6cc7c(scc7)cc6cc5c4ccc3cc21
+T8.8,5 - 10*a + 2*bf,1.868,4.727,2.859,s1ccc2c1c1c(ccs1)c1cc3cc4cc5cc6ccccc6cc5cc4cc3cc21
+T8.9,3 - 3*a + 2*b + 2*bf,3.132,5.344,2.212,s1ccc2c1c1ccccc1c1cc3cc4c(cc3cc21)c1c(cccc1)c1c4ccs1
+T8.10,3 - 3*a + b + bf + b + df,3.042,5.3,2.258,s1ccc2c3ccc4cc5cc6c(cc5cc4c3ccc12)c1c(cccc1)c1c6ccs1
+T8.11,3 - 3*a + -af + b + b*d + c*d + b*df*df,3.256,5.352,2.095,s1ccc2c1cc1cc3c(ccc4c3cc3c(ccc5c3ccc3c5ccs3)c4)cc1c2
+T8.12,3 - 3*a + -af + 2*b + d + b*df,3.213,5.327,2.114,s1ccc2cc3cc4c5ccccc5c5c6ccc7ccsc7c6ccc5c4cc3cc12
+T8.13,4 - 6*a + -af + b + b*df + b*df*df,2.681,5.078,2.397,s1ccc2c1cc1cc3cc4c(ccc5cc6cc7c(scc7)cc6cc45)cc3cc1c2
+T8.14,5 - 10*a + 2*bf,1.883,4.732,2.849,s1ccc2c3cc4cc5cc6cc7ccc8c(ccs8)c7cc6cc5cc4cc3ccc12
+T8.15,3 - 3*a + 2*b + df + cf,2.947,5.25,2.303,s1ccc2c1ccc1c2c2c(c3c(scc3)cc2)c2c1cc1cc3ccccc3cc1c2
+T8.16,3 - 3*a + 2*b + df + df,2.968,5.255,2.286,s1ccc2c1ccc1c2c2c(ccc3c2ccs3)c2c1cc1cc3ccccc3cc1c2
