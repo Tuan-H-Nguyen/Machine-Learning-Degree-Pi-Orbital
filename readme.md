@@ -1,13 +1,6 @@
 # ML-based DPO model
 
-## I. Goals:
-+ ML-based DPO model: DPO model (ref 1,2) but with Machine learning (ML)-based parameters optimization procedure.  
-
-+ Create a tool for generating DPO polynomials from SMILES strings of Polycyclic Aromatic Hydrocarbons (PAH) and thienoacenes.  
-
-+ Combine the aboves to a pipeline.  
-
-## II. Python and dependencies:
+## Python and dependencies:
 
 python 3   
 argparse     
@@ -17,11 +10,15 @@ pandas
 sympy  
 sklearn  
 
-## III. Guide
-### III.1. Overall guide
+## Data.
+
+Data for PAH and thienoacenes that are used in the project can be found in sample_DATA directory. 
+
+## Guide
+### 1. Overall guide
 Refer to **guide.ipynb**.
 
-### III.2. Running main.py
+### 2. Running main.py
 To make prediction of electronic properties of a certain PAH/thienoacenes from its SMILES string, run:  
   
     python main.py "C1(C=CS2)=C2C=C(C=CC3=C4C=CC5=C3C=CC6=C5C=CC7=C6C=CC8=C7C=CC=C8)C4=C1" -chk checkpoint.txt
@@ -42,23 +39,23 @@ where:
 + -n : number of runs for training/testing.
 + -s : random seed.
 
-## IV. Highlighted components/scripts:
-### IV.1. **DPO_generate** from poly_rings.DPO:  
+## Highlighted components/scripts:
+### 1. **DPO_generate** from poly_rings.DPO:  
 Function that input SMILES of PAH and thienoacenes (string) and return DPO polynomials (string).
 
-### IV.2. **GD_DPO** from gd_dpo.GDDPO.py:  
+### 2. **GD_DPO** from gd_dpo.GDDPO.py:  
 Python class for ML-based DPO model.
 
-### IV.3. **sampling** from utils.stratified_splitting.py:  
+### 3. **sampling** from utils.stratified_splitting.py:  
 Python function for splitting data to train set and test set.
 
-### IV.4. **Trainer** from trainer.py:  
+### 4. **Trainer** from trainer.py:  
 Class for quickly training and testing DPO model multiple times in a few lines of codes. Only required a generic data set (from which random training set and test set are assembled).
 
-### IV.5. Paper results:  
+### 5. Paper results:  
 paper_result_full_model, paper_result_trun_model, paper_result_robust for carrying out experiments reported in upcoming papers.
 
-### IV.6. **main.py**:  
+### 6. **main.py**:  
 Script for running in command line. For either training and saving the model to a txt file; or make prediction from SMILES string using a pre-trained model.
 
 ## References
