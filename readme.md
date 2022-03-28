@@ -22,7 +22,7 @@ sklearn
 Refer to **guide.ipynb**.
 
 ### III.2. Running main.py
-On windows Powershell, to make prediction of electronic properties of a certain PAH/thienoacenes from its SMILES string, run:  
+To make prediction of electronic properties of a certain PAH/thienoacenes from its SMILES string, run:  
   
     python main.py "C1(C=CS2)=C2C=C(C=CC3=C4C=CC5=C3C=CC6=C5C=CC7=C6C=CC8=C7C=CC=C8)C4=C1" -chk checkpoint.txt
   
